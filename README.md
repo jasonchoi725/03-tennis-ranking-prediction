@@ -1,4 +1,6 @@
 # 3-tennis-ranking-prediction
+A project to predict rankings of ATP tennis players by their game stats using linear regression, decision tree regressor and random forest.
+
 ![슬라이드01](https://user-images.githubusercontent.com/82641488/119694318-190c5380-be88-11eb-9d7d-ff1066df9b1a.jpg)
 ![슬라이드02](https://user-images.githubusercontent.com/82641488/119694326-1ad61700-be88-11eb-9d39-6876baec1548.jpg)
 ![슬라이드03](https://user-images.githubusercontent.com/82641488/119694335-1c074400-be88-11eb-82a0-1708702631c9.jpg)
