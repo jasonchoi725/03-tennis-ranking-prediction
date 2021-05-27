@@ -110,7 +110,7 @@ num_pipeline = Pipeline([
 true_copy_tennis_NoNan_tr = num_pipeline.fit_transform(true_copy_tennis_NoNan)
 true_copy_tennis_NoNan_tr
 
-## 가를 사용하여 최종적으로 tennis_prepared 형태로 데이터 준비하여 파이프라인 준비 완료 ?
+## ColumnTransformer를 사용하여 최종적으로 tennis_prepared 형태로 데이터 준비하여 파이프라인 준비 완료 ?
 from sklearn.compose import ColumnTransformer
 
 num_attribs = list(true_copy_tennis_NoNan)
