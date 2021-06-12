@@ -1,4 +1,8 @@
 # 03-tennis-ranking-prediction
+
+ENG: A personal project. Predicts rankings of tennis players using linear regression, decision tree regressor and random forest. 
+KOR: 개인 프로젝트. 머신러닝을 통해 테니스 선수 랭킹 예측.
+
 A project to predict rankings of ATP tennis players by their game stats using linear regression, decision tree regressor and random forest.
 
 ![슬라이드01](https://user-images.githubusercontent.com/82641488/119694318-190c5380-be88-11eb-9d7d-ff1066df9b1a.jpg)
